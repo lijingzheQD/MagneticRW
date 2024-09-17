@@ -6,7 +6,7 @@ This project is an R-based implementation of a magnetic random walk simulation a
 
 Features:
 ---------
-- Magnetic random walk simulation for well locations.
+- Magnetic random walk simulation for channel locations.
 - Visualization of well locations and random walk trajectories.
 - Customizable parameters like step length, safety distance, and stability.
 - Automatic generation of plots saved as JPG and PPT files.
