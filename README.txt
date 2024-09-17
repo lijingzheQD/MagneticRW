@@ -29,13 +29,7 @@ install.packages(c("dplyr", "export", "smoothr", "ggplot2", "SpatialExtremes", "
 
 Installation:
 -------------
-1. Clone the repository:
-   ```
-   git clone https://github.com/lijingzheQD/MagneticRW.git
-   cd repository-name
-   ```
-
-2. Install the required R packages using the command provided above.
+Extract the zip file and run the main one.r
 
 
 Usage:
