@@ -29,7 +29,7 @@ install.packages(c("dplyr", "export", "smoothr", "ggplot2", "SpatialExtremes", "
 
 Installation:
 -------------
-Extract the zip file and run the main one.r
+Extract the zip file and run the main.r
 
 
 Usage:
